@@ -1,0 +1,43 @@
+export const colors = {
+  white: '#FFF',
+  off_white: '#EDEDED',
+  black: '#000',
+  off_black: '#1A1A1A',
+
+  gray100: '#E1E1E6',
+  gray200: '#A9A9B2',
+  gray400: '#7C7C8A',
+  gray500: '#505059',
+  gray600: '#323238',
+  gray700: '#29292E',
+  gray800: '#202024',
+  gray900: '#121214',
+
+  mattmax: '#7700AF',
+  mattmax200: '#C2A2DD',
+  mattmax400: '#9963C6',
+  mattmax600: '#832dcc',
+  mattmax900: '#570080',
+  mattmax950: '#320556',
+
+  skyBlue: '#0EA5E9',
+  skyBlue200: '#CBEDFC',
+  skyBlue600: '#87D5F8',
+  skyBlue700: '#57C4F5',
+  skyBlue900: '#0B86BD',
+  skyBlue950: '#053D56',
+
+  orange: '#C84700',
+  orange200: '#FFC4A4',
+  orange500: '#FF955B',
+  orange600: '#ED5300',
+  orange800: '#AD3D00',
+  orange950: '#7C2F05',
+
+  green: '#00AD79',
+  green200: '#A8E6D0',
+  green300: '#69D3AE',
+  green600: '#00C286',
+  green900: '#008059',
+  green950: '#003726',
+}
