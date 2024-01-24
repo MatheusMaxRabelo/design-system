@@ -1,6 +1,6 @@
 {
-  "name": "@mattmax-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@mattmax-solutions-ui/ts-config",
+  "version": "2.0.0",
   "license": "ISC",
   "private": true
 }

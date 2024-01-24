@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@mattmax-solutions-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@mattmax-ui/eslint-config": "*",
-    "@mattmax-ui/react": "*",
-    "@mattmax-ui/tokens": "*",
+    "@mattmax-solutions-ui/eslint-config": "*",
+    "@mattmax-solutions-ui/react": "*",
+    "@mattmax-solutions-ui/tokens": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

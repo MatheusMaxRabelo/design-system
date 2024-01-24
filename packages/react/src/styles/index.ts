@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@mattmax-ui/tokens'
+} from '@mattmax-solutions-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

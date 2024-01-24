@@ -1,4 +1,4 @@
-import { colors } from '@mattmax-ui/tokens'
+import { colors } from '@mattmax-solutions-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

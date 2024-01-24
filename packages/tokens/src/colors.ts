@@ -19,6 +19,7 @@ export const colors = {
   mattmax600: '#832dcc',
   mattmax900: '#570080',
   mattmax950: '#320556',
+  mattmax990: '#323556',
 
   skyBlue: '#0EA5E9',
   skyBlue200: '#CBEDFC',

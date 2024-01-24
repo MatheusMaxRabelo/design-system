@@ -1,5 +1,6 @@
 {
-  "name": "@mattmax-ui/eslint-config",
+  "name": "@mattmax-solutions-ui/eslint-config",
+  "version": "2.0.0",
   "private": true,
   "main": "index.js",
   "license": "MIT",

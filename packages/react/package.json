@@ -1,6 +1,6 @@
 {
-  "name": "@mattmax-ui/react",
-  "version": "1.0.0",
+  "name": "@mattmax-solutions-ui/react",
+  "version": "3.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@mattmax-ui/eslint-config": "*",
-    "@mattmax-ui/tokens": "*",
-    "@mattmax-ui/ts-config": "*",
+    "@mattmax-solutions-ui/eslint-config": "*",
+    "@mattmax-solutions-ui/tokens": "*",
+    "@mattmax-solutions-ui/ts-config": "*",
     "@types/react": "^18.2.47",
     "@types/react-dom": "^18.2.18",
     "react": "^18.2.0",
